@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 tipCalculator/TipGif.gif
 
-<img src='[Imgur](https://i.imgur.com/J4WKkm3.gifv)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/J4WKkm3.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
