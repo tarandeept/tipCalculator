@@ -28,11 +28,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 tipCalculator/TipGif.gif
-[Imgur](https://i.imgur.com/J4WKkm3.gifv)
-<img src='https://imgur.com/a/KfGCrJY' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='[Imgur](https://i.imgur.com/J4WKkm3.gifv)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-https://imgur.com/a/KfGCrJY
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
