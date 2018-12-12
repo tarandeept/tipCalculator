@@ -27,9 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Imgur](https://i.imgur.com/J4WKkm3.gifv)
-<iframe src="https://giphy.com/embed/9rnAbu6KiZKLMBA66X" width="235" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/9rnAbu6KiZKLMBA66X">via GIPHY</a></p>
-<img src='https://i.imgur.com/J4WKkm3.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://media.giphy.com/media/9rnAbu6KiZKLMBA66X/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
